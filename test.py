@@ -1,6 +1,7 @@
 import os
 
 print("hello")
+print('world')
 
-a = (1, 2, 3)
+a=(1, 2,3)
 
